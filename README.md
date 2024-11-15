@@ -1,1 +1,2 @@
 # CompetitiveProgrammingTemplate
+一些会用到的算法模板，多为数据结构和生成函数
